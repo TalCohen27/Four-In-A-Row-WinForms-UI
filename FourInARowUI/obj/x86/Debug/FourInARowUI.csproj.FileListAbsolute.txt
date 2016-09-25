@@ -1,0 +1,14 @@
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.WindowsFormsUI.resources
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.csproj.GenerateResource.Cache
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\bin\Debug\FourInARowUI.pdb
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.pdb
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\bin\Debug\FourInARowUI.exe
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.exe
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.csprojResolveAssemblyReference.cache
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.GameWindow.resources
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\bin\Debug\FourInARowLogic.dll
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\bin\Debug\FourInARowLogic.pdb
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.Properties.Resources.resources
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.ButtonColumn.resources
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.ButtonSlot.resources
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowUI\obj\x86\Debug\FourInARowUI.SettingsWindow.resources

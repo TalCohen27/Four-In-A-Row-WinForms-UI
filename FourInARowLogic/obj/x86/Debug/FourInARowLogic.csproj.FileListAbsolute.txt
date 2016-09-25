@@ -1,0 +1,5 @@
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowLogic\bin\Debug\FourInARowLogic.dll
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowLogic\bin\Debug\FourInARowLogic.pdb
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowLogic\obj\x86\Debug\FourInARowLogic.dll
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowLogic\obj\x86\Debug\FourInARowLogic.pdb
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex05 Tal 302529672 Lael  301826939\FourInARowLogic\obj\x86\Debug\FourInARowLogic.csprojResolveAssemblyReference.cache

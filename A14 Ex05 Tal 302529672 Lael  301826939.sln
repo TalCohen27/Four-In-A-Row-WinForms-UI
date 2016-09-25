@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourInARowLogic", "FourInARowLogic\FourInARowLogic.csproj", "{6244FC6D-F51F-4F50-85BE-E85552EEA233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourInARowUI", "FourInARowUI\FourInARowUI.csproj", "{94AA55C6-32C1-44B5-B76C-582C0DEB730D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6244FC6D-F51F-4F50-85BE-E85552EEA233}.Debug|x86.ActiveCfg = Debug|x86
+		{6244FC6D-F51F-4F50-85BE-E85552EEA233}.Debug|x86.Build.0 = Debug|x86
+		{6244FC6D-F51F-4F50-85BE-E85552EEA233}.Release|x86.ActiveCfg = Release|x86
+		{6244FC6D-F51F-4F50-85BE-E85552EEA233}.Release|x86.Build.0 = Release|x86
+		{94AA55C6-32C1-44B5-B76C-582C0DEB730D}.Debug|x86.ActiveCfg = Debug|x86
+		{94AA55C6-32C1-44B5-B76C-582C0DEB730D}.Debug|x86.Build.0 = Debug|x86
+		{94AA55C6-32C1-44B5-B76C-582C0DEB730D}.Release|x86.ActiveCfg = Release|x86
+		{94AA55C6-32C1-44B5-B76C-582C0DEB730D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
